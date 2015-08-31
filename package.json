@@ -1,0 +1,23 @@
+{
+  "name": "@jjamell/npm-workshop",
+  "version": "0.1.0",
+  "description": "Learning NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjamell/npm-workshop.git"
+  },
+  "keywords": [
+    "npm",
+    "freecodecamp"
+  ],
+  "author": "jjamell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjamell/npm-workshop/issues"
+  },
+  "homepage": "https://github.com/jjamell/npm-workshop#readme"
+}
